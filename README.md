@@ -14,10 +14,8 @@ Use input statements to retrieve customer weather preferences, then use those pr
 
 Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
 
-Final Results:
+### Fig. 01 Travel Map with Markers
+![](https://github.com/ericosabino/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map_markers.png)
 
-### Fig 1. Travel map with Markers.
-![](Vacation Itinerary/WeatherPy_travel_map_markers.png)
-
-### Fig 2. Travel map.
-![](Vacation Itinerary/WeatherPy_travel_map.png)
+### Fig. 02 Travel Map
+![](https://github.com/ericosabino/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map.png)
